@@ -11,7 +11,7 @@
 ![](https://github.com/codeBender31/iOSCodePathPrework/blob/main/CodePath%20Prework.gif)
 
 
-`TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
+`TODO://`
 
 ### Required Features
 
